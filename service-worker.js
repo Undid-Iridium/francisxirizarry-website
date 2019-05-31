@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/francisxirizarry-website/precache-manifest.b6f9f8ec85d81361ca387b068c3f8cf7.js"
+  "/francisxirizarry-website/precache-manifest.5c8aef71d2dae192646d3a67b52b5241.js"
 );
 
 self.addEventListener('message', (event) => {
